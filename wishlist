@@ -1,0 +1,603 @@
+MASTER WISHLIST
+Wishlist Version: v15
+Schema Version: 1.0
+Status: Authoritative source for deal tracking
+
+
+AUTHORITATIVE DATA POLICY
+This document is the sole authoritative source for:
+- wishlist entries
+- tracker rules
+- section rules
+- pricing rules
+- platform restrictions
+- edition preferences
+- notification rules
+- matching rules
+If this document conflicts with previous conversations, memory, assumptions, or prior versions, this document takes precedence.
+
+GLOBAL TRACKER RULES
+- Search only items explicitly listed in this file.
+- Bundles, collections, remasters, and complete editions may be reported when they include a listed item.
+- Every reported opportunity must include a direct purchase/listing link when available.
+- Include seller/store, current price, shipping, taxes when known, timestamp, condition/edition, and market context.
+- Use recent sold prices, normal market value, and historical lows when available.
+- Do not repeat an unchanged listing unless price, availability, seller, condition, or urgency materially changes.
+- Alert ratings: ⭐ Buy Now; 🚨 Rare Listing; 🟣 Collector Deal; 🔵 Great Deal; 🟢 Good Deal; 🆕 New Release/Preorder; 🔄 Restock.
+
+==================================================
+GAMES AND HARDWARE
+==================================================
+
+SECTION RULES
+- All physical games must be US-region versions.
+- Physical = Physical only.
+- Digital = Digital only.
+- Physical or Digital = Either format is acceptable; compare eligible stores and report the cheapest qualifying option.
+- Physical-only game listings should be legitimate, good-condition CIB copies from reputable sellers.
+- PlayStation Store: notify whenever a listed game drops below $10, even if it is not a historical low.
+- eBay physical-only items: report abnormally low-priced active listings compared with typical market value.
+- Exact title matching is required, except qualifying bundles/collections/remasters/complete editions containing a listed title.
+
+ID | Platform | Title | Format | Notes
+GAME-HARDWARE-NINTENDO-ENTERTAINMENT-SYSTEM-CONSOLE | Hardware | Nintendo Entertainment System Console | Physical | Standalone retail console package only; no pack-in game bundle; CIB; functional; good condition.
+GAME-HARDWARE-SEGA-GENESIS-CONSOLE | Hardware | Sega Genesis Console | Physical | Standalone retail console package only; no pack-in game bundle; CIB; functional; good condition.
+GAME-HARDWARE-PLAYSTATION-VITA-OLED-PCH-1000-WI-FI-HANDHELD | Hardware | PlayStation Vita OLED PCH-1000 Wi-Fi Handheld | Physical | Original OLED PCH-1000 Wi-Fi model; handheld only; functional; good condition; no box, charger, memory card, or accessories needed; exclude 3G/cellular models.
+GAME-NES-1942 | NES | 1942 | Physical | 
+GAME-NES-1943 | NES | 1943 | Physical | 
+GAME-NES-CAPTAIN-SKYHAWK | NES | Captain Skyhawk | Physical | 
+GAME-NES-DEJA-VU | NES | Deja Vu | Physical | 
+GAME-NES-DUCKTALES | NES | DuckTales | Physical | 
+GAME-NES-DUCKTALES-2 | NES | DuckTales 2 | Physical | 
+GAME-NES-PIRATES | NES | Pirates! | Physical | 
+GAME-NES-UNINVITED | NES | Uninvited | Physical | 
+GAME-GENESIS-STREETS-OF-RAGE | Genesis | Streets of Rage | Physical | 
+GAME-GENESIS-STREETS-OF-RAGE-2 | Genesis | Streets of Rage 2 | Physical | 
+GAME-GENESIS-STREETS-OF-RAGE-3 | Genesis | Streets of Rage 3 | Physical | 
+GAME-PS2-GOD-OF-WAR | PS2 | God of War | Physical | 
+GAME-PS2-GOD-OF-WAR-II | PS2 | God of War II | Physical | 
+GAME-PSP-GOD-OF-WAR-CHAINS-OF-OLYMPUS | PSP | God of War: Chains of Olympus | Physical | 
+GAME-PSP-GOD-OF-WAR-GHOST-OF-SPARTA | PSP | God of War: Ghost of Sparta | Physical | 
+GAME-PS3-ENSLAVED-JOURNEY-TO-THE-WEST | PS3 | Enslaved: Journey to the West | Physical | 
+GAME-PS3-F-E-A-R-2-PROJECT-ORIGIN | PS3 | F.E.A.R. 2: Project Origin | Physical | 
+GAME-PS3-F-3-A-R | PS3 | F.3.A.R. | Physical | 
+GAME-PS3-FOLKLORE | PS3 | Folklore | Physical | 
+GAME-PS3-GOD-OF-WAR-III | PS3 | God of War III | Physical | 
+GAME-PS3-GOD-OF-WAR-ASCENSION | PS3 | God of War: Ascension | Physical | 
+GAME-PS3-HEAVENLY-SWORD | PS3 | Heavenly Sword | Physical | 
+GAME-PS3-PROTOTYPE | PS3 | Prototype | Physical | 
+GAME-PS3-PROTOTYPE-2 | PS3 | Prototype 2 | Physical | 
+GAME-PS3-SLEEPING-DOGS | PS3 | Sleeping Dogs | Physical | 
+GAME-PS3-SILENT-HILL-DOWNPOUR | PS3 | Silent Hill: Downpour | Physical | 
+GAME-PS3-SILENT-HILL-HD-COLLECTION | PS3 | Silent Hill HD Collection | Physical | 
+GAME-PS4-PS5-DARKSIDERS-4 | PS4/PS5 | Darksiders 4 | Physical | 
+GAME-PS4-PS5-FINAL-FANTASY-I-VI-PIXEL-REMASTER | PS4/PS5 | Final Fantasy I-VI Pixel Remaster | Physical | 
+GAME-PS4-PS5-GHOST-OF-YOTEI | PS4/PS5 | Ghost of Yotei | Physical | 
+GAME-PS4-PS5-GOD-OF-WAR-2018 | PS4/PS5 | God of War (2018) | Physical | 
+GAME-PS4-PS5-GOD-OF-WAR-RAGNAROK | PS4/PS5 | God of War Ragnarok | Physical | 
+GAME-PS4-PS5-LAUFEY | PS4/PS5 | Laufey | Physical | 
+GAME-PS4-PS5-PRAGMATA | PS4/PS5 | Pragmata | Physical | 
+GAME-PS4-PS5-STREETS-OF-RAGE-4 | PS4/PS5 | Streets of Rage 4 | Physical | 
+GAME-PS4-PS5-L-A-NOIRE-THE-VR-CASE-FILES | PS4/PS5 | L.A. Noire: The VR Case Files | Physical or Digital | 
+GAME-PS4-PS5-FILE-9 | PS4/PS5 | File 9 | Physical or Digital | 
+GAME-PS4-PS5-BULLETSTORM-VR | PS4/PS5 | Bulletstorm VR | Physical or Digital | 
+GAME-PS4-PS5-VIRTUA-FIGHTER-5-ULTIMATE-SHOWDOWN | PS4/PS5 | Virtua Fighter 5 Ultimate Showdown | Physical or Digital | 
+GAME-PS4-PS5-VIRTUA-FIGHTER-5-REVO-WORLD-STAGE | PS4/PS5 | Virtua Fighter 5 REVO World Stage | Physical or Digital | 
+GAME-PS4-PS5-ESCAPE-THE-BACKROOMS | PS4/PS5 | Escape the Backrooms | Physical or Digital | 
+GAME-PS4-PS5-KINGDOM-HEARTS-III-RE-MIND-DLC | PS4/PS5 | Kingdom Hearts III Re Mind DLC | Physical or Digital | 
+GAME-PS4-PS5-SIGNALIS | PS4/PS5 | Signalis | Physical or Digital | 
+GAME-PS4-PS5-TORMENTED-SOULS-2 | PS4/PS5 | Tormented Souls 2 | Physical or Digital | 
+GAME-PS4-PS5-STAR-WARS-ZERO-COMPANY | PS4/PS5 | Star Wars Zero Company | Physical or Digital | 
+GAME-PS4-PS5-FINAL-FANTASY-RESONANCE | PS4/PS5 | Final Fantasy Resonance | Physical or Digital | 
+GAME-PS4-PS5-THE-BACKROOMS | PS4/PS5 | The Backrooms | Physical or Digital | 
+GAME-PS4-PS5-BROKENLORE-FOLLOW | PS4/PS5 | BrokenLore: Follow | Physical or Digital | 
+GAME-PS4-PS5-BROKENLORE-ASCEND | PS4/PS5 | BrokenLore: Ascend | Physical or Digital | 
+GAME-PS4-PS5-DREAMCORE | PS4/PS5 | Dreamcore | Physical or Digital | 
+GAME-PS4-PS5-CRYMELIGHT | PS4/PS5 | Crymelight | Physical or Digital | 
+GAME-PS4-PS5-CRYMACHINA | PS4/PS5 | Crymachina | Physical or Digital | 
+GAME-PS4-PS5-HORIZON-HUNTERS-GATHERING | PS4/PS5 | Horizon Hunters Gathering | Physical or Digital | 
+GAME-PS4-PS5-RIVEN-PS5 | PS4/PS5 | Riven (PS5) | Physical or Digital | 
+GAME-PS4-PS5-MYST-PS5 | PS4/PS5 | Myst (PS5) | Physical or Digital | 
+GAME-PS4-PS5-MIXTAPE | PS4/PS5 | Mixtape | Physical or Digital | 
+GAME-PS4-PS5-I-AM-CAT | PS4/PS5 | I Am Cat | Physical or Digital | 
+GAME-PS4-PS5-STAR-WARS-GALACTIC-RACER | PS4/PS5 | Star Wars Galactic Racer | Physical or Digital | 
+GAME-PS4-PS5-BLUE-REFLECTION-QUARTET | PS4/PS5 | Blue Reflection Quartet | Physical or Digital | 
+GAME-PS4-PS5-LOST-RECORDS-BLOOM-RAGE | PS4/PS5 | Lost Records: Bloom & Rage | Physical or Digital | 
+GAME-PS4-PS5-ASSASSIN-S-CREED-BLACK-FLAG-RESYNCED | PS4/PS5 | Assassin's Creed Black Flag Resynced | Physical or Digital | 
+GAME-PS4-PS5-SILENT-HILL-TOWNFALL | PS4/PS5 | Silent Hill: Townfall | Physical or Digital | 
+GAME-PS4-PS5-SILENT-HILL-F | PS4/PS5 | Silent Hill f | Physical or Digital | 
+GAME-PS4-PS5-DIRECTIVE-8020 | PS4/PS5 | Directive 8020 | Physical or Digital | 
+GAME-PS4-PS5-POKER-NIGHT-AT-THE-INVENTORY | PS4/PS5 | Poker Night at the Inventory | Physical or Digital | 
+GAME-PS4-PS5-TOO-MANY-SANTAS | PS4/PS5 | Too Many Santas! | Physical or Digital | 
+GAME-PS4-PS5-SWEETHEART-EMPIRE | PS4/PS5 | Sweetheart Empire | Physical or Digital | 
+GAME-PS4-PS5-LITTLE-NIGHTMARES-III-SECRETS-OF-THE-SPIRAL-DLC | PS4/PS5 | Little Nightmares III: Secrets of the Spiral DLC | Physical or Digital | 
+GAME-PS4-PS5-LITTLE-NIGHTMARES-VR-ALTERED-ECHOES | PS4/PS5 | Little Nightmares VR: Altered Echoes | Physical or Digital | 
+GAME-PS4-PS5-LIFE-IS-STRANGE-REUNION | PS4/PS5 | Life Is Strange: Reunion | Physical or Digital | 
+GAME-PS4-PS5-BROKENLORE-DARK-DAWN | PS4/PS5 | BrokenLore: Dark Dawn | Physical or Digital | 
+GAME-PS4-PS5-MARVEL-S-WOLVERINE | PS4/PS5 | Marvel's Wolverine | Physical or Digital | 
+GAME-PS4-PS5-PLANET-OF-LANA-II | PS4/PS5 | Planet of Lana II | Physical or Digital | 
+GAME-PS4-PS5-THE-SHORE | PS4/PS5 | The Shore | Physical or Digital | 
+GAME-PS4-PS5-NECROPHOSIS-FULL-CONSCIOUSNESS | PS4/PS5 | Necrophosis: Full Consciousness | Physical or Digital | 
+GAME-PS4-PS5-THE-7TH-GUEST-FLAT-SCREEN | PS4/PS5 | The 7th Guest (flat-screen) | Physical or Digital | 
+GAME-PS4-PS5-THE-7TH-GUEST-VR | PS4/PS5 | The 7th Guest VR | Physical or Digital | 
+GAME-PS3-RESIDENT-EVIL-OPERATION-RACCOON-CITY | PS3 | Resident Evil: Operation Raccoon City | Physical or Digital | 
+GAME-PS4-PS5-RESIDENT-EVIL-REQUIEM | PS4/PS5 | Resident Evil Requiem | Physical or Digital | 
+GAME-PS4-PS5-GOD-OF-WAR-SONS-OF-SPARTA | PS4/PS5 | God of War: Sons of Sparta | Physical or Digital | 
+GAME-PS4-PS5-CONTROL-RESONANT | PS4/PS5 | Control Resonant | Physical or Digital | 
+GAME-PS4-PS5-HIGH-ON-LIFE-2 | PS4/PS5 | High on Life 2 | Physical or Digital | 
+GAME-PS4-PS5-UNMOURNED-VR | PS4/PS5 | Unmourned VR | Physical or Digital | 
+GAME-PS4-PS5-THE-ADVENTURES-OF-ELLIOT-THE-MILLENNIUM-TALES | PS4/PS5 | The Adventures of Elliot: The Millennium Tales | Physical or Digital | 
+GAME-PS4-PS5-DYING-REBORN | PS4/PS5 | DYING: Reborn | Physical or Digital | 
+GAME-PS4-PS5-MONSTER-HUNTER-STORIES-3-TWISTED-REFLECTION | PS4/PS5 | Monster Hunter Stories 3: Twisted Reflection | Physical or Digital | 
+GAME-PS4-PS5-BALDUR-S-GATE | PS4/PS5 | Baldur's Gate | Physical or Digital | 
+GAME-PS4-PS5-BALDUR-S-GATE-II | PS4/PS5 | Baldur's Gate II | Physical or Digital | 
+GAME-PS4-PS5-BALDUR-S-GATE-3 | PS4/PS5 | Baldur's Gate 3 | Physical or Digital | 
+GAME-PS4-PS5-LOST-SOUL-ASIDE | PS4/PS5 | Lost Soul Aside | Physical or Digital | 
+GAME-PS4-PS5-THE-MORTUARY-ASSISTANT | PS4/PS5 | The Mortuary Assistant | Physical or Digital | 
+GAME-PS4-PS5-STELLAR-BLADE-2 | PS4/PS5 | Stellar Blade 2 | Physical or Digital | 
+GAME-PS4-PS5-STELLAR-BLADE-TWIN-EXPANSION-PACK-DLC | PS4/PS5 | Stellar Blade: Twin Expansion Pack DLC | Physical or Digital | 
+GAME-PS4-PS5-PROJECT-SONGBIRD | PS4/PS5 | Project Songbird | Physical or Digital | 
+GAME-PS4-PS5-MEGA-MAN-BATTLE-NETWORK-LEGACY-COLLECTION | PS4/PS5 | Mega Man Battle Network Legacy Collection | Physical or Digital | 
+GAME-PS4-PS5-RAJI-KALIYUGA | PS4/PS5 | Raji: Kaliyuga | Physical or Digital | 
+GAME-PS4-PS5-DOUBLE-SWITCH-25TH-ANNIVERSARY-EDITION | PS4/PS5 | Double Switch: 25th Anniversary Edition | Physical or Digital | 
+GAME-PS4-PS5-FIVE-HEARTS-UNDER-ONE-ROOF | PS4/PS5 | Five Hearts Under One Roof | Physical or Digital | 
+GAME-PS4-PS5-LOVE-IS-ALL-AROUND-2 | PS4/PS5 | Love Is All Around 2 | Physical or Digital | 
+GAME-PS4-PS5-SUPERSCOUT | PS4/PS5 | Superscout | Physical or Digital | 
+GAME-PS4-PS5-THE-HEART-OF-INFLUENCER | PS4/PS5 | The Heart of Influencer | Physical or Digital | 
+GAME-PS4-PS5-KNOWLEDGE-OR-KNOW-LADY | PS4/PS5 | Knowledge, or Know Lady | Physical or Digital | 
+GAME-PS4-PS5-GOD-BLESS-OR-GODDESS | PS4/PS5 | God Bless, or Goddess | Physical or Digital | 
+GAME-PS4-PS5-SAM-MAX-THIS-TIME-IT-S-VIRTUAL | PS4/PS5 | Sam & Max: This Time It's Virtual! | Physical or Digital | 
+GAME-PS4-PS5-HOTEL-INFINITY | PS4/PS5 | Hotel Infinity | Physical or Digital | 
+GAME-PS4-PS5-FIGHTING-FORCE-COLLECTION | PS4/PS5 | Fighting Force Collection | Physical or Digital | 
+GAME-PS4-PS5-GREEDFALL-THE-DYING-WORLD | PS4/PS5 | GreedFall: The Dying World | Physical or Digital | 
+GAME-PS4-PS5-LUTO | PS4/PS5 | Luto | Physical or Digital | 
+GAME-PS4-PS5-BROKENLORE-UNFOLLOW | PS4/PS5 | BrokenLore: Unfollow | Physical or Digital | 
+GAME-PS4-PS5-BROKENLORE-DON-T-LIE | PS4/PS5 | BrokenLore: Don't Lie | Physical or Digital | 
+GAME-PS4-PS5-OBDUCTION | PS4/PS5 | Obduction | Physical or Digital | 
+GAME-PS4-PS5-REANIMAL | PS4/PS5 | Reanimal | Physical or Digital | 
+GAME-PS4-PS5-NO-MAN-S-SKY-PS4 | PS4/PS5 | No Man's Sky (PS4) | Physical or Digital | 
+GAME-PS4-PS5-SPONGEBOB-SQUAREPANTS-THE-PATRICK-STAR-GAME | PS4/PS5 | SpongeBob SquarePants: The Patrick Star Game | Physical or Digital | 
+GAME-PS4-PS5-SPONGEBOB-SQUAREPANTS-TITANS-OF-THE-TIDE | PS4/PS5 | SpongeBob SquarePants: Titans of the Tide | Physical or Digital | 
+GAME-PS4-PS5-LAST-LABYRINTH | PS4/PS5 | Last Labyrinth | Physical or Digital | 
+GAME-PS4-PS5-OF-LIES-AND-RAIN | PS4/PS5 | Of Lies and Rain | Physical or Digital | 
+GAME-PS4-PS5-TERMINATOR-2D-NO-FATE | PS4/PS5 | Terminator 2D: No Fate | Physical or Digital | 
+GAME-PS4-PS5-TERRIFIER-THE-ARTCADE-GAME | PS4/PS5 | Terrifier: The ARTcade Game | Physical or Digital | 
+GAME-PS4-PS5-THE-MIDNIGHT-WALK | PS4/PS5 | The Midnight Walk | Physical or Digital | 
+GAME-PS4-PS5-EVIL-INSIDE-VR | PS4/PS5 | Evil Inside VR | Physical or Digital | 
+GAME-PS4-PS5-MADISON-VR | PS4/PS5 | MADiSON VR | Physical or Digital | 
+GAME-PS4-PS5-ARKEN-AGE | PS4/PS5 | Arken Age | Physical or Digital | 
+GAME-PS4-PS5-STATIK | PS4/PS5 | Statik | Physical or Digital | 
+GAME-PS4-PS5-HERE-THEY-LIE | PS4/PS5 | Here They Lie | Physical or Digital | 
+GAME-PS4-PS5-MEGA-MAN-DUAL-OVERRIDE | PS4/PS5 | Mega Man: Dual Override | Physical or Digital | 
+GAME-PS4-PS5-MEGA-MAN-STAR-FORCE-LEGACY-COLLECTION | PS4/PS5 | Mega Man Star Force Legacy Collection | Physical or Digital | 
+GAME-PS4-PS5-NO-LAW | PS4/PS5 | No Law | Physical or Digital | 
+GAME-PS4-PS5-GHOST-TOWN | PS4/PS5 | Ghost Town | Physical or Digital | 
+GAME-PS4-PS5-SHADOWGATE | PS4/PS5 | Shadowgate | Physical or Digital | 
+GAME-PS4-PS5-SHADOWGATE-VR-THE-MINES-OF-MYTHROK | PS4/PS5 | Shadowgate VR: The Mines of Mythrok | Physical or Digital | 
+GAME-PS4-PS5-MOSS-BOOK-II-VR | PS4/PS5 | Moss: Book II VR | Physical or Digital | 
+GAME-PS4-PS5-MOSS-THE-FORGOTTEN-RELIC | PS4/PS5 | Moss: The Forgotten Relic | Physical or Digital | 
+GAME-PS4-PS5-GHOSTBUSTERS-RISE-OF-THE-GHOST-LORD | PS4/PS5 | Ghostbusters: Rise of the Ghost Lord | Physical or Digital | 
+GAME-PS4-PS5-THIEF-VR-LEGACY-OF-SHADOW | PS4/PS5 | Thief VR: Legacy of Shadow | Physical or Digital | 
+GAME-PS4-PS5-DISTANCE-CONSOLE-EDITION | PS4/PS5 | Distance: Console Edition | Physical or Digital | 
+GAME-PS4-PS5-THE-OUTER-WORLDS-2 | PS4/PS5 | The Outer Worlds 2 | Physical or Digital | 
+GAME-PS4-PS5-FINAL-FANTASY-TACTICS-THE-IVALICE-CHRONICLES | PS4/PS5 | Final Fantasy Tactics: The Ivalice Chronicles | Physical or Digital | 
+GAME-PS4-PS5-PAC-MAN-WORLD-2-RE-PAC | PS4/PS5 | Pac-Man World 2 Re-Pac | Physical or Digital | 
+GAME-PS4-PS5-SENUA-S-SAGA-HELLBLADE-II | PS4/PS5 | Senua's Saga: Hellblade II | Physical or Digital | 
+GAME-PS4-PS5-CITIZEN-SLEEPER-2-STARWARD-VECTOR | PS4/PS5 | Citizen Sleeper 2: Starward Vector | Physical or Digital | 
+GAME-PS4-PS5-APHELION | PS4/PS5 | Aphelion | Physical or Digital | 
+GAME-PS4-PS5-TRINE-5-A-CLOCKWORK-CONSPIRACY | PS4/PS5 | Trine 5: A Clockwork Conspiracy | Physical or Digital | 
+GAME-PS4-PS5-GRAND-THEFT-AUTO-VI-ULTIMATE-EDITION | PS4/PS5 | Grand Theft Auto VI Ultimate Edition | Physical or Digital | 
+GAME-PS4-PS5-ROBOCOP-ROGUE-CITY-UNFINISHED-BUSINESS | PS4/PS5 | RoboCop: Rogue City - Unfinished Business | Physical or Digital | 
+GAME-PS4-PS5-THE-ELDER-SCROLLS-IV-OBLIVION-REMASTERED | PS4/PS5 | The Elder Scrolls IV: Oblivion Remastered | Physical or Digital | 
+GAME-PS4-PS5-DEATH-STRANDING-2-ON-THE-BEACH | PS4/PS5 | Death Stranding 2: On the Beach | Physical or Digital | 
+GAME-PS4-PS5-POWERWASH-SIMULATOR-2 | PS4/PS5 | PowerWash Simulator 2 | Physical or Digital | 
+GAME-PS4-PS5-LOLLIPOP-CHAINSAW-REPOP | PS4/PS5 | Lollipop Chainsaw RePOP | Physical or Digital | 
+GAME-PS4-PS5-FAREWELL-NORTH | PS4/PS5 | Farewell North | Physical or Digital | 
+GAME-PS4-PS5-MONSTER-HUNTER-WILDS | PS4/PS5 | Monster Hunter Wilds | Physical or Digital | 
+GAME-PS4-PS5-HORIZON-FORBIDDEN-WEST | PS4/PS5 | Horizon Forbidden West | Physical or Digital | 
+GAME-PS4-PS5-HORIZON-FORBIDDEN-WEST-BURNING-SHORES-DLC | PS4/PS5 | Horizon Forbidden West: Burning Shores DLC | Physical or Digital | 
+GAME-PS4-PS5-ASSASSIN-S-CREED-SHADOWS | PS4/PS5 | Assassin's Creed Shadows | Physical or Digital | 
+GAME-PS4-PS5-VISAGE | PS4/PS5 | Visage | Physical or Digital | 
+GAME-PS4-PS5-LITTLE-DEVIL-INSIDE | PS4/PS5 | Little Devil Inside | Physical or Digital | 
+GAME-PS4-PS5-SPIRIT-OF-THE-NORTH-2 | PS4/PS5 | Spirit of the North 2 | Physical or Digital | 
+GAME-PS4-PS5-DRAGON-S-DOGMA-2 | PS4/PS5 | Dragon's Dogma 2 | Physical or Digital | 
+GAME-PS4-PS5-LITTLE-NIGHTMARES-III | PS4/PS5 | Little Nightmares III | Physical or Digital | 
+GAME-PS4-PS5-THE-DARK-PICTURES-SWITCHBACK-VR | PS4/PS5 | The Dark Pictures: Switchback VR | Physical or Digital | 
+GAME-PS4-PS5-THE-GOOD-LIFE | PS4/PS5 | The Good Life | Physical or Digital | 
+GAME-PS4-PS5-THE-INNER-FRIEND | PS4/PS5 | The Inner Friend | Physical or Digital | 
+GAME-PS4-PS5-VANE | PS4/PS5 | Vane | Physical or Digital | 
+GAME-PS4-PS5-THE-EVIL-WITHIN | PS4/PS5 | The Evil Within | Physical or Digital | 
+GAME-PS4-PS5-THE-EVIL-WITHIN-2 | PS4/PS5 | The Evil Within 2 | Physical or Digital | 
+GAME-PS4-PS5-BLOOD-CROSSROAD | PS4/PS5 | Blood Crossroad | Physical or Digital | 
+GAME-PS4-PS5-PHANTOM-BLADE-ZERO | PS4/PS5 | Phantom Blade Zero | Physical or Digital | 
+GAME-PS4-PS5-SOL-SHOGUNATE | PS4/PS5 | Sol Shogunate | Physical or Digital | 
+GAME-PS4-PS5-CRIMSON-MOON | PS4/PS5 | Crimson Moon | Physical or Digital | 
+GAME-PS4-PS5-PROJECT-QINDLESS | PS4/PS5 | Project Qindless | Physical or Digital | 
+GAME-PS4-PS5-REV-NOIR | PS4/PS5 | Rev.noir | Physical or Digital | 
+GAME-STEAM-HALF-LIFE-ALYX | Steam | Half-Life: Alyx | Digital | 
+GAME-STEAM-MISIDE | Steam | MiSide | Digital | 
+GAME-STEAM-SEA-CHRONICLES | Steam | Sea Chronicles | Digital | 
+GAME-STEAM-UNAWARE | Steam | Unaware | Digital | 
+GAME-PS-VITA-SILENT-HILL-BOOK-OF-MEMORIES | PS Vita | Silent Hill: Book of Memories | Physical or Digital | 
+
+==================================================
+FUNKO
+==================================================
+
+SECTION RULES
+- Every entry below is a wanted Pop.
+- Match franchise, Pop number, character/name, line, and variant/type.
+- Report unusually good prices, strong collector opportunities, restocks, and preorders.
+- Use recent sold prices and normal market value when available.
+- Include condition and note box damage, missing inserts, reproductions, or other material issues.
+
+ID | Franchise | Pop # | Name | Line | Type | Notes
+FUNKO-THE-ANGRY-BEAVERS-322-NORBERT-BEAVER-STANDARD | The Angry Beavers | 322 | Norbert Beaver | Pop Animation | Standard | 
+FUNKO-THE-ANGRY-BEAVERS-323-DAGGETT-BEAVER-STANDARD | The Angry Beavers | 323 | Daggett Beaver | Pop Animation | Standard | 
+FUNKO-ASTRO-BOT-1089-ASTRO-BOT-SILVER-EXCLUSIVE | Astro Bot | 1089 | Astro Bot (Silver) | Pop Games | Exclusive | 
+FUNKO-ASTRO-BOT-1301-ASTRO-BOT-BARKSTER-STANDARD | Astro Bot | 1301 | Astro Bot (Barkster) | Pop Games | Standard | 
+FUNKO-ASTRO-BOT-1302-ASTRO-BOT-DAD-OF-BOY-STANDARD | Astro Bot | 1302 | Astro Bot (Dad of Boy) | Pop Games | Standard | 
+FUNKO-ASTRO-BOT-1303-ASTRO-BOT-MACHINE-HUNTER-STANDARD | Astro Bot | 1303 | Astro Bot (Machine Hunter) | Pop Games | Standard | 
+FUNKO-ASTRO-BOT-1304-ASTRO-BOT-MECHANIC-STANDARD | Astro Bot | 1304 | Astro Bot (Mechanic) | Pop Games | Standard | 
+FUNKO-ASTRO-BOT-1305-ASTRO-BOT-STANDARD | Astro Bot | 1305 | Astro Bot | Pop Games | Standard | 
+FUNKO-ASTRO-BOT-1306-ASTRO-BOT-EZO-STANDARD | Astro Bot | 1306 | Astro Bot (Ezo) | Pop Games | Standard | 
+FUNKO-BAYONETTA-868-BAYONETTA-STANDARD | Bayonetta | 868 | Bayonetta | Pop Games | Standard | 
+FUNKO-BAYONETTA-869-JEANNE-STANDARD | Bayonetta | 869 | Jeanne | Pop Games | Standard | 
+FUNKO-THE-BOONDOCK-SAINTS-181-CONNOR-MACMANUS-STANDARD | The Boondock Saints | 181 | Connor MacManus | Pop Movies | Standard | 
+FUNKO-THE-BOONDOCK-SAINTS-182-MURPHY-MACMANUS-STANDARD | The Boondock Saints | 182 | Murphy MacManus | Pop Movies | Standard | 
+FUNKO-COWBOY-BEBOP-84-EIN-STANDARD | Cowboy Bebop | 84 | Ein | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-145-JET-BLACK-STANDARD | Cowboy Bebop | 145 | Jet Black | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-146-SPIKE-SPIEGEL-STANDARD | Cowboy Bebop | 146 | Spike Spiegel | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-147-FAYE-VALENTINE-STANDARD | Cowboy Bebop | 147 | Faye Valentine | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-148-ED-STANDARD | Cowboy Bebop | 148 | Ed | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-469-VICIOUS-STANDARD | Cowboy Bebop | 469 | Vicious | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-470-ED-EIN-STANDARD | Cowboy Bebop | 470 | Ed & Ein | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-1212-SPIKE-SPIEGEL-STANDARD | Cowboy Bebop | 1212 | Spike Spiegel | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-1213-JET-BLACK-STANDARD | Cowboy Bebop | 1213 | Jet Black | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-1214-FAYE-VALENTINE-STANDARD | Cowboy Bebop | 1214 | Faye Valentine | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-1215-ED-EIN-ON-SCOOTER-STANDARD | Cowboy Bebop | 1215 | Ed & Ein on Scooter | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-1216-JULIA-STANDARD | Cowboy Bebop | 1216 | Julia | Pop Animation | Standard | 
+FUNKO-COWBOY-BEBOP-1217-SPIKE-SPIEGEL-WITH-NOODLES-STANDARD | Cowboy Bebop | 1217 | Spike Spiegel with Noodles | Pop Animation | Standard | 
+FUNKO-THE-CROW-133-ERIC-DRAVEN-STANDARD | The Crow | 133 | Eric Draven | Pop Movies | Standard | 
+FUNKO-THE-CROW-133-ERIC-DRAVEN-GLOWS-IN-THE-DARK-EXCLUSIVE | The Crow | 133 | Eric Draven (Glows in the Dark) | Pop Movies | Exclusive | 
+FUNKO-THE-CROW-1428-ERIC-DRAVEN-STANDARD | The Crow | 1428 | Eric Draven | Pop Movies | Standard | 
+FUNKO-THE-CROW-1429-ERIC-DRAVEN-WITH-CROW-STANDARD | The Crow | 1429 | Eric Draven with Crow | Pop Movies | Standard | 
+FUNKO-THE-CROW-1429-ERIC-DRAVEN-WITH-CROW-GLOW-EXCLUSIVE | The Crow | 1429 | Eric Draven with Crow (Glow) | Pop Movies | Exclusive | 
+FUNKO-THE-CROW-1430-ERIC-DRAVEN-ON-TOMBSTONE-STANDARD | The Crow | 1430 | Eric Draven (on Tombstone) | Pop Movies | Standard | 
+FUNKO-CYBERPUNK-2077-588-MALE-V-STANDARD | Cyberpunk 2077 | 588 | Male V | Pop Games | Standard | 
+FUNKO-CYBERPUNK-2077-588-MALE-V-GLOWS-IN-THE-DARK-EXCLUSIVE | Cyberpunk 2077 | 588 | Male V (Glows in the Dark) | Pop Games | Exclusive | 
+FUNKO-CYBERPUNK-2077-589-GORO-TAKEMURA-STANDARD | Cyberpunk 2077 | 589 | Goro Takemura | Pop Games | Standard | 
+FUNKO-CYBERPUNK-2077-590-JOHNNY-SILVERHAND-STANDARD | Cyberpunk 2077 | 590 | Johnny Silverhand | Pop Games | Standard | 
+FUNKO-CYBERPUNK-2077-591-FEMALE-V-STANDARD | Cyberpunk 2077 | 591 | Female V | Pop Games | Standard | 
+FUNKO-CYBERPUNK-2077-592-JOHNNY-SILVERHAND-GLOWS-IN-THE-DARK-EXCLUSIVE | Cyberpunk 2077 | 592 | Johnny Silverhand (Glows in the Dark) | Pop Games | Exclusive | 
+FUNKO-CYBERPUNK-2077-592-JOHNNY-SILVERHAND-WITH-PISTOL-STANDARD | Cyberpunk 2077 | 592 | Johnny Silverhand (with Pistol) | Pop Games | Standard | 
+FUNKO-CYBERPUNK-EDGERUNNERS-2413-DAVID-MARTINEZ-STANDARD | Cyberpunk: Edgerunners | 2413 | David Martinez | Pop Animation | Standard | 
+FUNKO-CYBERPUNK-EDGERUNNERS-2414-LUCY-WITH-MONOWIRE-STANDARD | Cyberpunk: Edgerunners | 2414 | Lucy (with Monowire) | Pop Animation | Standard | 
+FUNKO-CYBERPUNK-EDGERUNNERS-2415-REBECCA-STANDARD | Cyberpunk: Edgerunners | 2415 | Rebecca | Pop Animation | Standard | 
+FUNKO-CYBERPUNK-EDGERUNNERS-2416-LUCY-WITH-HOODIE-STANDARD | Cyberpunk: Edgerunners | 2416 | Lucy (with Hoodie) | Pop Animation | Standard | 
+FUNKO-FAST-FURIOUS-275-DOM-TORETTO-STANDARD | Fast & Furious | 275 | Dom Toretto | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-276-BRIAN-OCONNER-STANDARD | Fast & Furious | 276 | Brian O’Conner | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-277-LUKE-HOBBS-STANDARD | Fast & Furious | 277 | Luke Hobbs | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-920-DECKARD-SHAW-STANDARD | Fast & Furious | 920 | Deckard Shaw | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-921-LUKE-HOBBS-STANDARD | Fast & Furious | 921 | Luke Hobbs | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-922-BRIXTON-LORE-STANDARD | Fast & Furious | 922 | Brixton Lore | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-923-HATTIE-SHAW-STANDARD | Fast & Furious | 923 | Hattie Shaw | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-1078-DOM-TORETTO-STANDARD | Fast & Furious | 1078 | Dom Toretto | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-1079-JAKOB-TORETTO-STANDARD | Fast & Furious | 1079 | Jakob Toretto | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-1992-BRIAN-OCONNER-STANDARD | Fast & Furious | 1992 | Brian O’Conner | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-1993-DOM-TORETTO-WINNING-IS-WINNING-STANDARD | Fast & Furious | 1993 | Dom Toretto (Winning is Winning) | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-1994-LETTY-ORTIZ-STANDARD | Fast & Furious | 1994 | Letty Ortiz | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-1995-HAN-LUE-STANDARD | Fast & Furious | 1995 | Han Lue | Pop Movies | Standard | 
+FUNKO-FAST-FURIOUS-1996-TEJ-PARKER-STANDARD | Fast & Furious | 1996 | Tej Parker | Pop Movies | Standard | 
+FUNKO-THE-FIFTH-ELEMENT-189-KORBEN-DALLAS-STANDARD | The Fifth Element | 189 | Korben Dallas | Pop Movies | Standard | 
+FUNKO-THE-FIFTH-ELEMENT-190-LEELOO-STANDARD | The Fifth Element | 190 | Leeloo | Pop Movies | Standard | 
+FUNKO-THE-FIFTH-ELEMENT-191-JEAN-BAPTISTE-EMANUEL-ZORG-STANDARD | The Fifth Element | 191 | Jean-Baptiste Emanuel Zorg | Pop Movies | Standard | 
+FUNKO-THE-FIFTH-ELEMENT-192-RUBY-RHOD-STANDARD | The Fifth Element | 192 | Ruby Rhod | Pop Movies | Standard | 
+FUNKO-THE-FIFTH-ELEMENT-193-LEELOO-WHITE-BANDAGE-OUTFIT-STANDARD | The Fifth Element | 193 | Leeloo (White Bandage Outfit) | Pop Movies | Standard | 
+FUNKO-THE-FIFTH-ELEMENT-194-MANGALORE-STANDARD | The Fifth Element | 194 | Mangalore | Pop Movies | Standard | 
+FUNKO-THE-FIFTH-ELEMENT-195-DIVA-PLAVALAGUNA-STANDARD | The Fifth Element | 195 | Diva Plavalaguna | Pop Movies | Standard | 
+FUNKO-FIGHT-CLUB-919-NARRATOR-WITH-POWER-ANIMAL-CHASE | Fight Club | 919 | Narrator with Power Animal | Pop Movies | Chase | 
+FUNKO-FIREFLY-135-MALCOLM-REYNOLDS-STANDARD | Firefly | 135 | Malcolm Reynolds | Pop Television | Standard | 
+FUNKO-FIREFLY-136-ZOE-WASHBURNE-STANDARD | Firefly | 136 | Zoë Washburne | Pop Television | Standard | 
+FUNKO-FIREFLY-137-HOBAN-WASH-WASHBURNE-STANDARD | Firefly | 137 | Hoban “Wash” Washburne | Pop Television | Standard | 
+FUNKO-FIREFLY-138-JAYNE-COBB-STANDARD | Firefly | 138 | Jayne Cobb | Pop Television | Standard | 
+FUNKO-FIREFLY-139-KAYLEE-FRYE-STANDARD | Firefly | 139 | Kaylee Frye | Pop Television | Standard | 
+FUNKO-FIREFLY-139-KAYLEE-FRYE-DIRTY-EXCLUSIVE | Firefly | 139 | Kaylee Frye (Dirty) | Pop Television | Exclusive | 
+FUNKO-FIREFLY-1823-HOBAN-WASH-WASHBURNE-WITH-DINOSAURS-STANDARD | Firefly | 1823 | Hoban “Wash” Washburne (with Dinosaurs) | Pop Television | Standard | 
+FUNKO-FIREFLY-1824-KAYLEE-FRYE-WITH-UMBRELLA-STANDARD | Firefly | 1824 | Kaylee Frye (with Umbrella) | Pop Television | Standard | 
+FUNKO-FIREFLY-1825-INARA-SERRA-STANDARD | Firefly | 1825 | Inara Serra | Pop Television | Standard | 
+FUNKO-FIREFLY-1826-SHEPHERD-BOOK-HAIR-UNTIED-CHASE-CHASE | Firefly | 1826 | Shepherd Book (Hair Untied) (Chase) | Pop Television | Chase | 
+FUNKO-FIREFLY-1827-RIVER-TAM-STANDARD | Firefly | 1827 | River Tam | Pop Television | Standard | 
+FUNKO-FIREFLY-1828-JAYNE-COBB-STANDARD | Firefly | 1828 | Jayne Cobb | Pop Television | Standard | 
+FUNKO-FIREFLY-1829-SIMON-TAM-STANDARD | Firefly | 1829 | Simon Tam | Pop Television | Standard | 
+FUNKO-GHOST-OF-TSUSHIMA-621-JIN-SAKAI-STANDARD | Ghost of Tsushima | 621 | Jin Sakai | Pop Games | Standard | 
+FUNKO-GHOST-OF-TSUSHIMA-621-JIN-SAKAI-BLOODY-CHASE-CHASE | Ghost of Tsushima | 621 | Jin Sakai (Bloody) (Chase) | Pop Games | Chase | 
+FUNKO-GHOST-OF-YOTEI-1248-ATSU-STANDARD | Ghost of Yōtei | 1248 | Atsu | Pop Games | Standard | 
+FUNKO-GHOST-OF-YOTEI-1249-WOLF-EXCLUSIVE | Ghost of Yōtei | 1249 | Wolf | Pop Games | Exclusive | 
+FUNKO-GOD-OF-WAR-25-KRATOS-STANDARD | God of War | 25 | Kratos | Pop Games | Standard | 
+FUNKO-GOD-OF-WAR-25-KRATOS-FEAR-EXCLUSIVE | God of War | 25 | Kratos (Fear) | Pop Games | Exclusive | 
+FUNKO-GOD-OF-WAR-154-KRATOS-BLADES-OF-CHAOS-STANDARD | God of War | 154 | Kratos (Blades of Chaos) | Pop Games | Standard | 
+FUNKO-GOD-OF-WAR-269-KRATOS-LEVIATHAN-AXE-STANDARD | God of War | 269 | Kratos (Leviathan Axe) | Pop Games | Standard | 
+FUNKO-GOD-OF-WAR-270-ATREUS-STANDARD | God of War | 270 | Atreus | Pop Games | Standard | 
+FUNKO-GOD-OF-WAR-271-FIRE-TROLL-STANDARD | God of War | 271 | Fire Troll | Pop Games | Standard | 
+FUNKO-GOD-OF-WAR-272-DRAUGR-STANDARD | God of War | 272 | Draugr | Pop Games | Standard | 
+FUNKO-GOD-OF-WAR-1285-KRATOS-WITH-BLADES-STANDARD | God of War | 1285 | Kratos (with Blades) | Pop Games | Standard | 
+FUNKO-MAD-MAX-507-IMPERATOR-FURIOSA-BLOODY-CHASE-CHASE | Mad Max | 507 | Imperator Furiosa (Bloody) (Chase) | Pop Movies | Chase | 
+FUNKO-MANDY-1131-RED-MILLER-CHASE-CHASE | Mandy | 1131 | Red Miller (Chase) | Pop Movies | Chase | 
+FUNKO-MANDY-1132-MANDY-CHASE-CHASE | Mandy | 1132 | Mandy (Chase) | Pop Movies | Chase | 
+FUNKO-MANDY-1161-CHEDDAR-GOBLIN-STANDARD | Mandy | 1161 | Cheddar Goblin | Pop Movies | Standard | 
+FUNKO-MISFITS-33-MISFITS-FIEND-STANDARD | Misfits | 33 | Misfits Fiend | Pop Rocks | Standard | 
+FUNKO-MOTORHEAD-49-LEMMY-KILMISTER-GOLD-EXCLUSIVE | Motörhead | 49 | Lemmy Kilmister (Gold) | Pop Rocks | Exclusive | 
+FUNKO-MOTORHEAD-163-WARPIG-STANDARD | Motörhead | 163 | Warpig | Pop Rocks | Standard | 
+FUNKO-MOTORHEAD-170-LEMMY-KILMISTER-STANDARD | Motörhead | 170 | Lemmy Kilmister | Pop Rocks | Standard | 
+FUNKO-MR-BEAN-592-MR-BEAN-TURKEY-HEAD-CHASE-CHASE | Mr. Bean | 592 | Mr. Bean (Turkey Head) (Chase) | Pop Television | Chase | 
+FUNKO-MR-BEAN-786-MR-BEAN-IN-PAJAMAS-STANDARD | Mr. Bean | 786 | Mr. Bean in Pajamas | Pop Television | Standard | 
+FUNKO-MR-BEAN-786-MR-BEAN-IN-PAJAMAS-CHASE-CHASE | Mr. Bean | 786 | Mr. Bean in Pajamas (Chase) | Pop Television | Chase | 
+FUNKO-OZZY-OSBOURNE-12-OZZY-OSBOURNE-STANDARD | Ozzy Osbourne | 12 | Ozzy Osbourne | Pop Rocks | Standard | 
+FUNKO-OZZY-OSBOURNE-185-OZZY-OSBOURNE-ORDINARY-MAN-STANDARD | Ozzy Osbourne | 185 | Ozzy Osbourne Ordinary Man | Pop Rocks | Standard | 
+FUNKO-OZZY-OSBOURNE-323-OZZY-OSBOURNE-IN-BLACK-SUIT-EXCLUSIVE | Ozzy Osbourne | 323 | Ozzy Osbourne in Black Suit | Pop Rocks | Exclusive | 
+FUNKO-OZZY-OSBOURNE-332-OZZY-OSBOURNE-IN-PURPLE-FRINGE-OUTFIT-EXCLUSIVE | Ozzy Osbourne | 332 | Ozzy Osbourne in Purple Fringe Outfit | Pop Rocks | Exclusive | 
+FUNKO-OZZY-OSBOURNE-356-OZZY-OSBOURNE-PURPLE-SUIT-STANDARD | Ozzy Osbourne | 356 | Ozzy Osbourne (Purple Suit) | Pop Rocks | Standard | 
+FUNKO-OZZY-OSBOURNE-404-OZZY-OSBOURNE-1989-STANDARD | Ozzy Osbourne | 404 | Ozzy Osbourne (1989) | Pop Rocks | Standard | 
+FUNKO-POP-ALBUMS-08-ACE-OF-SPADES-POP-ALBUM-MOTORHEAD | Pop! Albums | 08 | Ace of Spades | Pop Albums | Pop! Album — Motörhead | 
+FUNKO-POP-ALBUMS-12-DIARY-OF-A-MADMAN-POP-ALBUM-OZZY-OSBOURNE | Pop! Albums | 12 | Diary of a Madman | Pop Albums | Pop! Album — Ozzy Osbourne | 
+FUNKO-POP-ALBUMS-60-BARK-AT-THE-MOON-FLOCKED-POP-ALBUM-OZZY-OSBOURNE | Pop! Albums | 60 | Bark at the Moon (Flocked) | Pop Albums | Pop! Album — Ozzy Osbourne | 
+FUNKO-POP-GAME-COVERS-02-GERALT-POP-GAME-COVER-THE-WITCHER-III-WILD-HUNT | Pop! Game Covers | 02 | Geralt | Pop Game Covers | Pop! Game Cover — The Witcher III: Wild Hunt | 
+FUNKO-POP-GAME-COVERS-12-THE-LICH-KING-GLOW-POP-GAME-COVER-WORLD-OF-WARCRAFT-WRATH-OF-THE-LICH-KING | Pop! Game Covers | 12 | The Lich King (Glow) | Pop Game Covers | Pop! Game Cover — World of Warcraft: Wrath of the Lich King | 
+FUNKO-POP-MOMENTS-555-GERALT-VS-LESHEN-POP-MOMENT-THE-WITCHER | Pop! Moments | 555 | Geralt vs Leshen | Pop Moments | Pop! Moment — The Witcher | 
+FUNKO-POP-MOMENTS-723-BATTLE-OF-FALLEN-ANGELS-POP-MOMENT-COWBOY-BEBOP | Pop! Moments | 723 | Battle of Fallen Angels | Pop Moments | Pop! Moment — Cowboy Bebop | 
+FUNKO-POP-RIDES-17-FAST-FURIOUS-CHARGER-POP-RIDES-THE-FAST-AND-THE-FURIOUS | Pop! Rides | 17 | Fast & Furious - Charger | Pop Rides | Pop! Rides — The Fast and the Furious | 
+FUNKO-POP-RIDES-42-THE-NUX-CAR-POP-RIDES-MAD-MAX | Pop! Rides | 42 | The Nux Car | Pop Rides | Pop! Rides — Mad Max | 
+FUNKO-POP-RIDES-304-LONE-WOLF-POP-RIDES-SUPER-DELUXE-MAD-MAX | Pop! Rides | 304 | Lone Wolf | Pop Rides | Pop! Rides Super Deluxe — Mad Max | 
+FUNKO-RAMBO-2004-JOHN-RAMBO-EXPLOSIVE-ARROW-STANDARD | Rambo | 2004 | John Rambo (Explosive Arrow) | Pop Movies | Standard | 
+FUNKO-RAMONES-13-JOHNNY-RAMONE-STANDARD | Ramones | 13 | Johnny Ramone | Pop Rocks | Standard | 
+FUNKO-RAMONES-14-DEE-DEE-RAMONE-STANDARD | Ramones | 14 | Dee Dee Ramone | Pop Rocks | Standard | 
+FUNKO-RAMONES-55-JOEY-RAMONE-STANDARD | Ramones | 55 | Joey Ramone | Pop Rocks | Standard | 
+FUNKO-ROBOT-CHICKEN-1769-ROBOT-CHICKEN-STANDARD | Robot Chicken | 1769 | Robot Chicken | Pop Animation | Standard | 
+FUNKO-ROCKY-18-ROCKY-BALBOA-STANDARD | Rocky | 18 | Rocky Balboa | Pop Movies | Standard | 
+FUNKO-ROCKY-19-APOLLO-CREED-STANDARD | Rocky | 19 | Apollo Creed | Pop Movies | Standard | 
+FUNKO-ROCKY-20-CLUBBER-LANG-STANDARD | Rocky | 20 | Clubber Lang | Pop Movies | Standard | 
+FUNKO-ROCKY-21-IVAN-DRAGO-STANDARD | Rocky | 21 | Ivan Drago | Pop Movies | Standard | 
+FUNKO-ROCKY-1180-ROCKY-BALBOA-WITH-CHAMPIONSHIP-BELT-STANDARD | Rocky | 1180 | Rocky Balboa (with Championship Belt) | Pop Movies | Standard | 
+FUNKO-ROCKY-1713-ROCKY-BALBOA-WITH-ROBE-STANDARD | Rocky | 1713 | Rocky Balboa (with Robe) | Pop Movies | Standard | 
+FUNKO-ROCKY-1714-CLUBBER-LANG-STANDARD | Rocky | 1714 | Clubber Lang | Pop Movies | Standard | 
+FUNKO-ROCKY-1715-IVAN-DRAGO-STANDARD | Rocky | 1715 | Ivan Drago | Pop Movies | Standard | 
+FUNKO-SHANTAE-578-SHANTAE-STANDARD | Shantae | 578 | Shantae | Pop Games | Standard | 
+FUNKO-SUPER-TROOPERS-581-OFFICER-RAMATHORN-STANDARD | Super Troopers | 581 | Officer Ramathorn | Pop Movies | Standard | 
+FUNKO-SUPER-TROOPERS-582-MAC-STANDARD | Super Troopers | 582 | Mac | Pop Movies | Standard | 
+FUNKO-SUPER-TROOPERS-583-FARVA-STANDARD | Super Troopers | 583 | Farva | Pop Movies | Standard | 
+FUNKO-TOMBSTONE-851-WYATT-EARP-STANDARD | Tombstone | 851 | Wyatt Earp | Pop Movies | Standard | 
+FUNKO-TOMBSTONE-852-DOC-HOLLIDAY-STANDARD | Tombstone | 852 | Doc Holliday | Pop Movies | Standard | 
+FUNKO-TOMBSTONE-853-VIRGIL-EARP-STANDARD | Tombstone | 853 | Virgil Earp | Pop Movies | Standard | 
+FUNKO-TOMBSTONE-854-MORGAN-EARP-STANDARD | Tombstone | 854 | Morgan Earp | Pop Movies | Standard | 
+FUNKO-TOMBSTONE-855-DOC-HOLLIDAY-WITH-CUP-EXCLUSIVE | Tombstone | 855 | Doc Holliday (with Cup) | Pop Movies | Exclusive | 
+FUNKO-TOMBSTONE-856-DOC-HOLLIDAY-WITH-PISTOLS-EXCLUSIVE | Tombstone | 856 | Doc Holliday (with Pistols) | Pop Movies | Exclusive | 
+FUNKO-WARCRAFT-MOVIE-285-KING-LLANE-WRYNN-STANDARD | Warcraft Movie | 285 | King Llane Wrynn | Pop Movies | Standard | 
+FUNKO-WARCRAFT-MOVIE-288-ORGRIM-DOOMHAMMER-STANDARD | Warcraft Movie | 288 | Orgrim Doomhammer | Pop Movies | Standard | 
+FUNKO-WILL-GRACE-966-WILL-TRUMAN-STANDARD | Will & Grace | 966 | Will Truman | Pop Television | Standard | 
+FUNKO-WILL-GRACE-967-GRACE-ADLER-STANDARD | Will & Grace | 967 | Grace Adler | Pop Television | Standard | 
+FUNKO-WILL-GRACE-968-KAREN-WALKER-STANDARD | Will & Grace | 968 | Karen Walker | Pop Television | Standard | 
+FUNKO-WILL-GRACE-969-JACK-MCFARLAND-STANDARD | Will & Grace | 969 | Jack McFarland | Pop Television | Standard | 
+FUNKO-THE-WITCHER-150-CIRI-STANDARD | The Witcher | 150 | Ciri | Pop Games | Standard | 
+FUNKO-THE-WITCHER-150-CIRI-GLOWS-IN-THE-DARK-EXCLUSIVE | The Witcher | 150 | Ciri (Glows in the Dark) | Pop Games | Exclusive | 
+FUNKO-THE-WITCHER-151-EREDIN-STANDARD | The Witcher | 151 | Eredin | Pop Games | Standard | 
+FUNKO-THE-WITCHER-152-YENNEFER-STANDARD | The Witcher | 152 | Yennefer | Pop Games | Standard | 
+FUNKO-THE-WITCHER-153-TRISS-MERIGOLD-STANDARD | The Witcher | 153 | Triss Merigold | Pop Games | Standard | 
+FUNKO-THE-WITCHER-554-GERALT-IGNI-STANDARD | The Witcher | 554 | Geralt (Igni) | Pop Games | Standard | 
+FUNKO-THE-WITCHER-561-LESHEN-STANDARD | The Witcher | 561 | Leshen | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-14-ILLIDAN-BLACK-EXCLUSIVE | World of Warcraft | 14 | Illidan (Black) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-14-ILLIDAN-GOLD-EXCLUSIVE | World of Warcraft | 14 | Illidan (Gold) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-14-ILLIDAN-METALLIC-EXCLUSIVE | World of Warcraft | 14 | Illidan (Metallic) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-14-ILLIDAN-STORMRAGE-STANDARD | World of Warcraft | 14 | Illidan Stormrage | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-15-ARTHAS-MENETHIL-STANDARD | World of Warcraft | 15 | Arthas Menethil | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-30-LADY-SYLVANAS-WINDRUNNER-STANDARD | World of Warcraft | 30 | Lady Sylvanas Windrunner | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-30-LADY-SYLVANAS-WINDRUNNER-METALLIC-EXCLUSIVE | World of Warcraft | 30 | Lady Sylvanas Windrunner (Metallic) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-31-THRALL-STANDARD | World of Warcraft | 31 | Thrall | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-32-DEATHWING-STANDARD | World of Warcraft | 32 | Deathwing | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-32-DEATHWING-GOLD-EXCLUSIVE | World of Warcraft | 32 | Deathwing (Gold) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-33-GREEN-MURLOC-STANDARD | World of Warcraft | 33 | Green Murloc | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-33-MURLOC-BLUE-GLOWS-IN-THE-DARK-EXCLUSIVE | World of Warcraft | 33 | Murloc (Blue) (Glows in the Dark) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-33-MURLOC-GREEN-GLOWS-IN-THE-DARK-EXCLUSIVE | World of Warcraft | 33 | Murloc (Green) (Glows in the Dark) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-33-MURLOC-METALLIC-EXCLUSIVE | World of Warcraft | 33 | Murloc (Metallic) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-33-MURLOC-SPECTRAL-EXCLUSIVE | World of Warcraft | 33 | Murloc (Spectral) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-33-MURLOC-WHITE-EXCLUSIVE | World of Warcraft | 33 | Murloc (White) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-34-MURGHOUL-STANDARD | World of Warcraft | 34 | Mur’ghoul | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-521-LADY-SYLVANAS-WINDRUNNER-GOLD-PATINA-EXCLUSIVE | World of Warcraft | 521 | Lady Sylvanas Windrunner (Gold Patina) | Pop Games | Exclusive | 
+FUNKO-WORLD-OF-WARCRAFT-989-ICE-MURLOC-STANDARD | World of Warcraft | 989 | Ice Murloc | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-990-SYLVANAS-SHADOW-CHASE-CHASE | World of Warcraft | 990 | Sylvanas (Shadow) (Chase) | Pop Games | Chase | 
+FUNKO-WORLD-OF-WARCRAFT-990-SYLVANAS-WINDRUNNER-STANDARD | World of Warcraft | 990 | Sylvanas Windrunner | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-1045-ALLERIA-WINDRUNNER-STANDARD | World of Warcraft | 1045 | Alleria Windrunner | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-1046-THRALL-STANDARD | World of Warcraft | 1046 | Thrall | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-1099-ANDUIN-WRYNN-STANDARD | World of Warcraft | 1099 | Anduin Wrynn | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-1100-JAINA-PROUDMOORE-STANDARD | World of Warcraft | 1100 | Jaina Proudmoore | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-1101-ILLIDAN-GLOWS-IN-THE-DARK-CHASE-CHASE | World of Warcraft | 1101 | Illidan (Glows in the Dark) (Chase) | Pop Games | Chase | 
+FUNKO-WORLD-OF-WARCRAFT-1102-XALATATH-STANDARD | World of Warcraft | 1102 | Xal’atath | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-1224-FINDUIN-STANDARD | World of Warcraft | 1224 | Finduin | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-1225-GILLEL-STANDARD | World of Warcraft | 1225 | Gill’el | Pop Games | Standard | 
+FUNKO-WORLD-OF-WARCRAFT-1226-MURKASTRASZA-STANDARD | World of Warcraft | 1226 | Murkastrasza | Pop Games | Standard | 
+
+==================================================
+MUSIC
+==================================================
+
+SECTION RULES
+- Physical releases only.
+- Match the exact requested format and edition.
+- Prefer official releases; exclude bootlegs and unofficial pressings.
+- Imports are acceptable unless a note says otherwise.
+- Report unusually good prices or historical lows and include pressing/edition details when known.
+
+ID | Artist | Title | Type | Format | Notes
+MUSIC-BRAD-PAISLEY-WHO-NEEDS-PICTURES-LP-CD | Brad Paisley | Who Needs Pictures | LP | CD | 
+MUSIC-BRAD-PAISLEY-PART-II-LP-CD | Brad Paisley | Part II | LP | CD | 
+MUSIC-BRAD-PAISLEY-MUD-ON-THE-TIRES-LP-CD | Brad Paisley | Mud on the Tires | LP | CD | 
+MUSIC-BRAD-PAISLEY-TIME-WELL-WASTED-STANDARD-EDITION-LP-CD | Brad Paisley | Time Well Wasted — Standard Edition | LP | CD | 
+MUSIC-BRAD-PAISLEY-BRAD-PAISLEY-CHRISTMAS-LP-CD | Brad Paisley | Brad Paisley Christmas | LP | CD | 
+MUSIC-BRAD-PAISLEY-5TH-GEAR-LP-CD | Brad Paisley | 5th Gear | LP | CD | 
+MUSIC-BRAD-PAISLEY-PLAY-THE-GUITAR-ALBUM-LP-CD | Brad Paisley | Play: The Guitar Album | LP | CD | 
+MUSIC-BRAD-PAISLEY-AMERICAN-SATURDAY-NIGHT-LP-CD | Brad Paisley | American Saturday Night | LP | CD | 
+MUSIC-BRAD-PAISLEY-THIS-IS-COUNTRY-MUSIC-LP-CD | Brad Paisley | This Is Country Music | LP | CD | 
+MUSIC-BRAD-PAISLEY-WHEELHOUSE-DELUXE-EDITION-LP-CD | Brad Paisley | Wheelhouse — Deluxe Edition | LP | CD | 
+MUSIC-BRAD-PAISLEY-WHEELHOUSE-CRACKER-BARREL-SPECIAL-EDITION-LP-CD | Brad Paisley | Wheelhouse — Cracker Barrel Special Edition | LP | CD | 
+MUSIC-BRAD-PAISLEY-MOONSHINE-IN-THE-TRUNK-LP-CD | Brad Paisley | Moonshine in the Trunk | LP | CD | 
+MUSIC-BRAD-PAISLEY-LOVE-AND-WAR-LP-CD | Brad Paisley | Love and War | LP | CD | 
+MUSIC-BRAD-PAISLEY-SNOW-GLOBE-TOWN-LP-VINYL | Brad Paisley | Snow Globe Town | LP | Vinyl | 
+MUSIC-BRAD-PAISLEY-PLAYLIST-THE-VERY-BEST-OF-BRAD-PAISLEY-LP-CD | Brad Paisley | Playlist: The Very Best of Brad Paisley | LP | CD | 
+MUSIC-COLLABORATIONS-HEADGIRL-ST-VALENTINE-S-DAY-MASSACRE-EP-VINYL | Collaborations | Headgirl — St. Valentine's Day Massacre | EP | Vinyl | 
+MUSIC-COLLABORATIONS-LEMMY-OZZY-OSBOURNE-HELLRAISER-30TH-ANNIVERSARY-EDITION-10-INCH-SINGLE-VINYL | Collaborations | Lemmy / Ozzy Osbourne — Hellraiser (30th Anniversary Edition), 10-inch | Single | Vinyl | 
+MUSIC-GARY-ALLAN-USED-HEART-FOR-SALE-LP-CD | Gary Allan | Used Heart for Sale | LP | CD | 
+MUSIC-GARY-ALLAN-IT-WOULD-BE-YOU-LP-CD | Gary Allan | It Would Be You | LP | CD | 
+MUSIC-GARY-ALLAN-SMOKE-RINGS-IN-THE-DARK-2019-DELUXE-EDITION-LP-VINYL | Gary Allan | Smoke Rings in the Dark — 2019 Deluxe Edition | LP | Vinyl | 
+MUSIC-GARY-ALLAN-ALRIGHT-GUY-LP-CD | Gary Allan | Alright Guy | LP | CD | 
+MUSIC-GARY-ALLAN-SEE-IF-I-CARE-LP-CD | Gary Allan | See If I Care | LP | CD | 
+MUSIC-GARY-ALLAN-TOUGH-ALL-OVER-LP-CD | Gary Allan | Tough All Over | LP | CD | 
+MUSIC-GARY-ALLAN-LIVING-HARD-LP-CD | Gary Allan | Living Hard | LP | CD | 
+MUSIC-GARY-ALLAN-GET-OFF-ON-THE-PAIN-LP-CD | Gary Allan | Get Off on the Pain | LP | CD | 
+MUSIC-GARY-ALLAN-SET-YOU-FREE-LP-CD | Gary Allan | Set You Free | LP | CD | 
+MUSIC-GARY-ALLAN-RUTHLESS-LP-VINYL | Gary Allan | Ruthless | LP | Vinyl | 
+MUSIC-MISFITS-STATIC-AGE-LP-VINYL | Misfits | Static Age | LP | Vinyl | 
+MUSIC-MISFITS-WALK-AMONG-US-LP-VINYL | Misfits | Walk Among Us | LP | Vinyl | 
+MUSIC-MISFITS-EARTH-A-D-WOLFS-BLOOD-LP-VINYL | Misfits | Earth A.D./Wolfs Blood | LP | Vinyl | 
+MUSIC-MISFITS-AMERICAN-PSYCHO-LP-VINYL | Misfits | American Psycho | LP | Vinyl | 
+MUSIC-MISFITS-FAMOUS-MONSTERS-LP-VINYL | Misfits | Famous Monsters | LP | Vinyl | 
+MUSIC-MISFITS-PROJECT-1950-LP-VINYL | Misfits | Project 1950 | LP | Vinyl | 
+MUSIC-MISFITS-THE-DEVIL-S-RAIN-LP-VINYL | Misfits | The Devil's Rain | LP | Vinyl | 
+MUSIC-MISFITS-HORROR-BUSINESS-EP-VINYL | Misfits | Horror Business | EP | Vinyl | 
+MUSIC-MISFITS-NIGHT-OF-THE-LIVING-DEAD-EP-VINYL | Misfits | Night of the Living Dead | EP | Vinyl | 
+MUSIC-MISFITS-3-HITS-FROM-HELL-EP-VINYL | Misfits | 3 Hits from Hell | EP | Vinyl | 
+MUSIC-MISFITS-COUGH-COOL-ORIGINAL-SINGLE-SINGLE-VINYL | Misfits | Cough/Cool — Original Single | Single | Vinyl | 
+MUSIC-MISFITS-HALLOWEEN-SINGLE-VINYL | Misfits | Halloween | Single | Vinyl | 
+MUSIC-MOTORHEAD-MOTORHEAD-LP-VINYL | Motörhead | Motörhead | LP | Vinyl | 
+MUSIC-MOTORHEAD-ON-PAROLE-LP-VINYL | Motörhead | On Parole | LP | Vinyl | 
+MUSIC-MOTORHEAD-OVERKILL-LP-VINYL | Motörhead | Overkill | LP | Vinyl | 
+MUSIC-MOTORHEAD-BOMBER-LP-VINYL | Motörhead | Bomber | LP | Vinyl | 
+MUSIC-MOTORHEAD-ACE-OF-SPADES-LP-VINYL | Motörhead | Ace of Spades | LP | Vinyl | 
+MUSIC-MOTORHEAD-IRON-FIST-LP-VINYL | Motörhead | Iron Fist | LP | Vinyl | 
+MUSIC-MOTORHEAD-ANOTHER-PERFECT-DAY-LP-VINYL | Motörhead | Another Perfect Day | LP | Vinyl | 
+MUSIC-MOTORHEAD-ORGASMATRON-LP-VINYL | Motörhead | Orgasmatron | LP | Vinyl | 
+MUSIC-MOTORHEAD-ROCK-N-ROLL-LP-VINYL | Motörhead | Rock 'n' Roll | LP | Vinyl | 
+MUSIC-MOTORHEAD-1916-LP-VINYL | Motörhead | 1916 | LP | Vinyl | 
+MUSIC-MOTORHEAD-MARCH-OR-DIE-LP-VINYL | Motörhead | March ör Die | LP | Vinyl | 
+MUSIC-MOTORHEAD-BASTARDS-LP-VINYL | Motörhead | Bastards | LP | Vinyl | 
+MUSIC-MOTORHEAD-SACRIFICE-LP-VINYL | Motörhead | Sacrifice | LP | Vinyl | 
+MUSIC-MOTORHEAD-OVERNIGHT-SENSATION-LP-VINYL | Motörhead | Overnight Sensation | LP | Vinyl | 
+MUSIC-MOTORHEAD-SNAKE-BITE-LOVE-LP-VINYL | Motörhead | Snake Bite Love | LP | Vinyl | 
+MUSIC-MOTORHEAD-WE-ARE-MOTORHEAD-LP-VINYL | Motörhead | We Are Motörhead | LP | Vinyl | 
+MUSIC-MOTORHEAD-HAMMERED-LP-VINYL | Motörhead | Hammered | LP | Vinyl | 
+MUSIC-MOTORHEAD-INFERNO-LP-VINYL | Motörhead | Inferno | LP | Vinyl | 
+MUSIC-MOTORHEAD-KISS-OF-DEATH-LP-VINYL | Motörhead | Kiss of Death | LP | Vinyl | 
+MUSIC-MOTORHEAD-MOTORIZER-LP-VINYL | Motörhead | Motörizer | LP | Vinyl | 
+MUSIC-MOTORHEAD-THE-WORLD-IS-YOURS-LP-VINYL | Motörhead | The Wörld Is Yours | LP | Vinyl | 
+MUSIC-MOTORHEAD-AFTERSHOCK-LP-VINYL | Motörhead | Aftershock | LP | Vinyl | 
+MUSIC-MOTORHEAD-BAD-MAGIC-LP-VINYL | Motörhead | Bad Magic | LP | Vinyl | 
+MUSIC-MOTORHEAD-BEER-DRINKERS-AND-HELL-RAISERS-EP-VINYL | Motörhead | Beer Drinkers and Hell Raisers | EP | Vinyl | 
+MUSIC-MOTORHEAD-LEAVING-HERE-SINGLE-VINYL | Motörhead | Leaving Here | Single | Vinyl | 
+MUSIC-MOTORHEAD-LOUIE-LOUIE-SINGLE-VINYL | Motörhead | Louie Louie | Single | Vinyl | 
+MUSIC-MOTORHEAD-OVERKILL-SINGLE-VINYL | Motörhead | Overkill | Single | Vinyl | 
+MUSIC-MOTORHEAD-NO-CLASS-SINGLE-VINYL | Motörhead | No Class | Single | Vinyl | 
+MUSIC-MOTORHEAD-BOMBER-SINGLE-VINYL | Motörhead | Bomber | Single | Vinyl | 
+MUSIC-MOTORHEAD-ACE-OF-SPADES-SINGLE-VINYL | Motörhead | Ace of Spades | Single | Vinyl | 
+MUSIC-MOTORHEAD-IRON-FIST-SINGLE-VINYL | Motörhead | Iron Fist | Single | Vinyl | 
+MUSIC-MOTORHEAD-I-GOT-MINE-SINGLE-VINYL | Motörhead | I Got Mine | Single | Vinyl | 
+MUSIC-MOTORHEAD-KILLED-BY-DEATH-12-INCH-EDITION-CONTAINING-BOTH-UNDER-THE-KNIFE-TRACKS-SINGLE-VINYL | Motörhead | Killed by Death — 12-inch edition containing both Under the Knife tracks | Single | Vinyl | Must be the 12-inch edition containing both Under the Knife tracks.
+MUSIC-MOTORHEAD-CITY-KIDS-SINGLE-VINYL | Motörhead | City Kids | Single | Vinyl | 
+MUSIC-OZZY-OSBOURNE-BLIZZARD-OF-OZZ-LP-VINYL | Ozzy Osbourne | Blizzard of Ozz | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-DIARY-OF-A-MADMAN-LP-VINYL | Ozzy Osbourne | Diary of a Madman | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-BARK-AT-THE-MOON-LP-VINYL | Ozzy Osbourne | Bark at the Moon | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-THE-ULTIMATE-SIN-LP-VINYL | Ozzy Osbourne | The Ultimate Sin | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-NO-REST-FOR-THE-WICKED-LP-VINYL | Ozzy Osbourne | No Rest for the Wicked | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-NO-MORE-TEARS-LP-VINYL | Ozzy Osbourne | No More Tears | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-OZZMOSIS-LP-VINYL | Ozzy Osbourne | Ozzmosis | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-DOWN-TO-EARTH-LP-VINYL | Ozzy Osbourne | Down to Earth | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-UNDER-COVER-LP-CD | Ozzy Osbourne | Under Cover | LP | CD | 
+MUSIC-OZZY-OSBOURNE-BLACK-RAIN-LP-VINYL | Ozzy Osbourne | Black Rain | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-SCREAM-LP-VINYL | Ozzy Osbourne | Scream | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-ORDINARY-MAN-LP-VINYL | Ozzy Osbourne | Ordinary Man | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-PATIENT-NUMBER-9-LP-VINYL | Ozzy Osbourne | Patient Number 9 | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-FLIPPIN-THE-B-SIDE-LP-VINYL | Ozzy Osbourne | Flippin' The B Side | LP | Vinyl | 
+MUSIC-OZZY-OSBOURNE-PRINCE-OF-DARKNESS-REQUIRED-FOR-THE-FINISHED-STUDIO-VERSION-OF-WALK-ON-WATER-LP-CD | Ozzy Osbourne | Prince of Darkness — required for the finished studio version of Walk on Water | LP | CD | Required for the finished studio version of Walk on Water.
+MUSIC-RAMONES-RAMONES-LP-VINYL | Ramones | Ramones | LP | Vinyl | 
+MUSIC-RAMONES-LEAVE-HOME-LP-VINYL | Ramones | Leave Home | LP | Vinyl | 
+MUSIC-RAMONES-ROCKET-TO-RUSSIA-LP-VINYL | Ramones | Rocket to Russia | LP | Vinyl | 
+MUSIC-RAMONES-ROAD-TO-RUIN-LP-VINYL | Ramones | Road to Ruin | LP | Vinyl | 
+MUSIC-RAMONES-END-OF-THE-CENTURY-LP-VINYL | Ramones | End of the Century | LP | Vinyl | 
+MUSIC-RAMONES-PLEASANT-DREAMS-LP-VINYL | Ramones | Pleasant Dreams | LP | Vinyl | 
+MUSIC-RAMONES-SUBTERRANEAN-JUNGLE-LP-VINYL | Ramones | Subterranean Jungle | LP | Vinyl | 
+MUSIC-RAMONES-TOO-TOUGH-TO-DIE-LP-VINYL | Ramones | Too Tough to Die | LP | Vinyl | 
+MUSIC-RAMONES-ANIMAL-BOY-LP-VINYL | Ramones | Animal Boy | LP | Vinyl | 
+MUSIC-RAMONES-HALFWAY-TO-SANITY-LP-VINYL | Ramones | Halfway to Sanity | LP | Vinyl | 
+MUSIC-RAMONES-BRAIN-DRAIN-LP-VINYL | Ramones | Brain Drain | LP | Vinyl | 
+MUSIC-RAMONES-MONDO-BIZARRO-LP-VINYL | Ramones | Mondo Bizarro | LP | Vinyl | 
+MUSIC-RAMONES-ACID-EATERS-JAPANESE-EDITION-PREFERRED-LP-VINYL | Ramones | Acid Eaters — Japanese Edition Preferred | LP | Vinyl | Japanese edition preferred.
+MUSIC-RAMONES-ADIOS-AMIGOS-LP-VINYL | Ramones | ¡Adios Amigos! | LP | Vinyl | 
+MUSIC-RAMONES-ROCK-N-ROLL-HIGH-SCHOOL-SOUNDTRACK-LP-VINYL | Ramones | Rock 'n' Roll High School Soundtrack | LP | Vinyl | 
+MUSIC-RAMONES-GET-CRAZY-SOUNDTRACK-LP-VINYL | Ramones | Get Crazy Soundtrack | LP | Vinyl | 
+MUSIC-RAMONES-STILL-MORE-STUFF-RARITIES-1981-1989-LP-VINYL | Ramones | Still More Stuff: Rarities 1981-1989 | LP | Vinyl | 
+MUSIC-RAMONES-WEIRD-TALES-OF-THE-RAMONES-LP-CD | Ramones | Weird Tales of the Ramones | LP | CD | 
+MUSIC-THE-PRETTY-RECKLESS-LIGHT-ME-UP-LP-VINYL | The Pretty Reckless | Light Me Up | LP | Vinyl | 
+MUSIC-THE-PRETTY-RECKLESS-HIT-ME-LIKE-A-MAN-EP-CD | The Pretty Reckless | Hit Me Like a Man | EP | CD | 
+MUSIC-THE-PRETTY-RECKLESS-GOING-TO-HELL-JAPANESE-DELUXE-EDITION-LP-CD | The Pretty Reckless | Going to Hell (Japanese Deluxe Edition) | LP | CD | 
+MUSIC-THE-PRETTY-RECKLESS-WHO-YOU-SELLING-FOR-LP-VINYL | The Pretty Reckless | Who You Selling For | LP | Vinyl | 
+MUSIC-THE-PRETTY-RECKLESS-DEATH-BY-ROCK-AND-ROLL-LP-VINYL | The Pretty Reckless | Death by Rock and Roll | LP | Vinyl | 
+MUSIC-THE-PRETTY-RECKLESS-OTHER-WORLDS-LP-VINYL | The Pretty Reckless | Other Worlds | LP | Vinyl | 
+MUSIC-THE-PRETTY-RECKLESS-TAYLOR-MOMSEN-S-PRETTY-RECKLESS-CHRISTMAS-LP-VINYL | The Pretty Reckless | Taylor Momsen's Pretty Reckless Christmas | LP | Vinyl | 
+MUSIC-THE-PRETTY-RECKLESS-DEAR-GOD-LP-VINYL | The Pretty Reckless | Dear God | LP | Vinyl | 
+MUSIC-VARIOUS-ARTISTS-CAN-T-GET-ENOUGH-A-TRIBUTE-TO-BAD-COMPANY-LP-VINYL | Various Artists | Can't Get Enough: A Tribute to Bad Company | LP | Vinyl | 
+MUSIC-VARIOUS-ARTISTS-WE-WISH-YOU-A-METAL-X-MAS-AND-A-HEADBANGING-NEW-YEAR-16-TRACK-EXPANDED-EDITION-LP-VINYL | Various Artists | We Wish You a Metal X-Mas and a Headbanging New Year (16-Track Expanded Edition) | LP | Vinyl | 
+MUSIC-VARIOUS-ARTISTS-LIVIN-LOVIN-LOSIN-SONGS-OF-THE-LOUVIN-BROTHERS-LP-CD | Various Artists | Livin' Lovin' Losin': Songs of the Louvin Brothers | LP | CD | 
+MUSIC-VARIOUS-ARTISTS-COMMON-THREAD-THE-SONGS-OF-THE-EAGLES-LP-CD | Various Artists | Common Thread: The Songs of the Eagles | LP | CD | 
+MUSIC-VARIOUS-ARTISTS-HUMANARY-STEW-A-TRIBUTE-TO-ALICE-COOPER-LP-CD | Various Artists | Humanary Stew: A Tribute to Alice Cooper | LP | CD | 
+MUSIC-VARIOUS-ARTISTS-WWE-PRESENTS-TRIPLE-H-THE-EVOLUTION-OF-THE-GAME-LP-VINYL | Various Artists | WWE Presents: Triple H – The Evolution of the Game | LP | Vinyl | 
+MUSIC-COLLABORATIONS-HEADCAT-LEMMY-SLIM-JIM-DANNY-B-LP-CD | Collaborations | HeadCat — Lemmy, Slim Jim & Danny B | LP | CD | 
+MUSIC-COLLABORATIONS-HEADCAT-WALK-THE-WALK-TALK-THE-TALK-LP-VINYL | Collaborations | HeadCat — Walk the Walk... Talk the Talk | LP | Vinyl | 
+MUSIC-COLLABORATIONS-LEMMY-NOTHING-ELSE-MATTERS-SINGLE-VINYL | Collaborations | Lemmy — Nothing Else Matters | Single | Vinyl | 
+MUSIC-BAD-COMPANY-BAD-COMPANY-LP-VINYL | Bad Company | Bad Company | LP | Vinyl | 
+MUSIC-BAD-COMPANY-STRAIGHT-SHOOTER-DELUXE-EDITION-LP-CD | Bad Company | Straight Shooter (Deluxe Edition) | LP | CD | 
+MUSIC-BAD-COMPANY-RUN-WITH-THE-PACK-DELUXE-EDITION-LP-CD | Bad Company | Run with the Pack (Deluxe Edition) | LP | CD | 
+MUSIC-BAD-COMPANY-BURNIN-SKY-DELUXE-EDITION-LP-CD | Bad Company | Burnin' Sky (Deluxe Edition) | LP | CD | 
+MUSIC-BAD-COMPANY-DESOLATION-ANGELS-LP-VINYL | Bad Company | Desolation Angels | LP | Vinyl | 
+MUSIC-BAD-COMPANY-ROUGH-DIAMONDS-LP-VINYL | Bad Company | Rough Diamonds | LP | Vinyl | 
+MUSIC-BAD-COMPANY-FAME-AND-FORTUNE-LP-VINYL | Bad Company | Fame and Fortune | LP | Vinyl | 
+MUSIC-BAD-COMPANY-DANGEROUS-AGE-LP-VINYL | Bad Company | Dangerous Age | LP | Vinyl | 
+MUSIC-BAD-COMPANY-HOLY-WATER-LP-VINYL | Bad Company | Holy Water | LP | Vinyl | 
+MUSIC-BAD-COMPANY-HERE-COMES-TROUBLE-LP-VINYL | Bad Company | Here Comes Trouble | LP | Vinyl | 
+MUSIC-BAD-COMPANY-COMPANY-OF-STRANGERS-LP-VINYL | Bad Company | Company of Strangers | LP | Vinyl | 
+MUSIC-BAD-COMPANY-STORIES-TOLD-UNTOLD-LP-CD | Bad Company | Stories Told & Untold | LP | CD | 
+MUSIC-BAD-COMPANY-THE-ORIGINAL-BAD-CO-ANTHOLOGY-COMPILATION-CD | Bad Company | The 'Original' Bad Co. Anthology | Compilation | CD | 
+MUSIC-BAD-COMPANY-IN-CONCERT-MERCHANTS-OF-COOL-LIVE-ALBUM-CD | Bad Company | In Concert: Merchants of Cool | Live Album | CD | 
+
+==================================================
+BOOKS
+==================================================
+
+ID | Series | Title | Format | Language | Notes
+BOOK-TOM-CLANCY-S-THE-DIVISION-OPERATION-CROSSROADS-COMPROMISED | Tom Clancy's The Division: Operation Crossroads | Compromised | Physical Book | English | English physical edition only; exclude Kindle, Audible, ebooks, and non-English editions; notify on every new active listing regardless of price; Buy It Now and auctions accepted.
+BOOK-TOM-CLANCY-S-THE-DIVISION-OPERATION-CROSSROADS-HUNTED | Tom Clancy's The Division: Operation Crossroads | Hunted | Physical Book | English | English physical edition only; exclude Kindle, Audible, ebooks, and non-English editions; notify on every new active listing regardless of price; Buy It Now and auctions accepted.
+
+==================================================
+TELEVISION
+==================================================
+
+ID | Series | Title | Format | Notes
+TV-AREYOUBEINGSERVED-COMPLETE | Are You Being Served? | The Complete Series | DVD |
+TV-FAWLTYTOWERS-REMASTERED | Fawlty Towers | Remastered Special Edition | DVD |
+TV-BLACKADDER-COMPLETE | Blackadder | The Complete Collection | Blu-ray |
+TV-MRBEAN-WHOLEBEAN | Mr. Bean | The Whole Bean | DVD |
+TV-MRBEAN-ANIMATED | Mr. Bean | The Animated Series | DVD |
+TV-CROW-STAIRWAY | The Crow | Stairway to Heaven (TV Guide Edition) | DVD |
+TV-JUSTIFIED-COMPLETE | Justified | The Complete Series | Blu-ray |
+TV-JUSTIFIED-CITYPRIMEVAL | Justified | City Primeval | Blu-ray |
+
+==================================================
+MOVIES
+==================================================
+
+ID | Franchise | Title | Format | Notes
+MOV-COWBOYBEBOP-MOVIE | Cowboy Bebop | The Movie | Blu-ray |
+MOV-BEAN | Mr. Bean | Bean | Blu-ray |
+MOV-MRBEANHOLIDAY | Mr. Bean | Mr. Bean's Holiday | Blu-ray |
+MOV-CROW30 | The Crow | The Crow (30th Anniversary Edition) | 4K Blu-ray |
+MOV-CROWCOA | The Crow | The Crow: City of Angels | Blu-ray |
+MOV-CROWSALVATION | The Crow | The Crow: Salvation | Blu-ray |
+MOV-CROWWICKED | The Crow | The Crow: Wicked Prayer | DVD |
+MOV-CROW2024 | The Crow | The Crow (2024) | 4K Blu-ray |
