@@ -425,33 +425,7 @@ SECTION RULES
 - Report unusually good prices or historical lows and include pressing/edition details when known.
 
 ID | Artist | Title | Type | Format | Notes
-MUSIC-BRAD-PAISLEY-WHO-NEEDS-PICTURES-LP-CD | Brad Paisley | Who Needs Pictures | LP | CD | 
-MUSIC-BRAD-PAISLEY-PART-II-LP-CD | Brad Paisley | Part II | LP | CD | 
-MUSIC-BRAD-PAISLEY-MUD-ON-THE-TIRES-LP-CD | Brad Paisley | Mud on the Tires | LP | CD | 
-MUSIC-BRAD-PAISLEY-TIME-WELL-WASTED-STANDARD-EDITION-LP-CD | Brad Paisley | Time Well Wasted — Standard Edition | LP | CD | 
-MUSIC-BRAD-PAISLEY-BRAD-PAISLEY-CHRISTMAS-LP-CD | Brad Paisley | Brad Paisley Christmas | LP | CD | 
-MUSIC-BRAD-PAISLEY-5TH-GEAR-LP-CD | Brad Paisley | 5th Gear | LP | CD | 
-MUSIC-BRAD-PAISLEY-PLAY-THE-GUITAR-ALBUM-LP-CD | Brad Paisley | Play: The Guitar Album | LP | CD | 
-MUSIC-BRAD-PAISLEY-AMERICAN-SATURDAY-NIGHT-LP-CD | Brad Paisley | American Saturday Night | LP | CD | 
-MUSIC-BRAD-PAISLEY-THIS-IS-COUNTRY-MUSIC-LP-CD | Brad Paisley | This Is Country Music | LP | CD | 
-MUSIC-BRAD-PAISLEY-WHEELHOUSE-DELUXE-EDITION-LP-CD | Brad Paisley | Wheelhouse — Deluxe Edition | LP | CD | 
-MUSIC-BRAD-PAISLEY-WHEELHOUSE-CRACKER-BARREL-SPECIAL-EDITION-LP-CD | Brad Paisley | Wheelhouse — Cracker Barrel Special Edition | LP | CD | 
-MUSIC-BRAD-PAISLEY-MOONSHINE-IN-THE-TRUNK-LP-CD | Brad Paisley | Moonshine in the Trunk | LP | CD | 
-MUSIC-BRAD-PAISLEY-LOVE-AND-WAR-LP-CD | Brad Paisley | Love and War | LP | CD | 
-MUSIC-BRAD-PAISLEY-SNOW-GLOBE-TOWN-LP-VINYL | Brad Paisley | Snow Globe Town | LP | Vinyl | 
-MUSIC-BRAD-PAISLEY-PLAYLIST-THE-VERY-BEST-OF-BRAD-PAISLEY-LP-CD | Brad Paisley | Playlist: The Very Best of Brad Paisley | LP | CD | 
-MUSIC-COLLABORATIONS-HEADGIRL-ST-VALENTINE-S-DAY-MASSACRE-EP-VINYL | Collaborations | Headgirl — St. Valentine's Day Massacre | EP | Vinyl | 
-MUSIC-COLLABORATIONS-LEMMY-OZZY-OSBOURNE-HELLRAISER-30TH-ANNIVERSARY-EDITION-10-INCH-SINGLE-VINYL | Collaborations | Lemmy / Ozzy Osbourne — Hellraiser (30th Anniversary Edition), 10-inch | Single | Vinyl | 
-MUSIC-GARY-ALLAN-USED-HEART-FOR-SALE-LP-CD | Gary Allan | Used Heart for Sale | LP | CD | 
-MUSIC-GARY-ALLAN-IT-WOULD-BE-YOU-LP-CD | Gary Allan | It Would Be You | LP | CD | 
-MUSIC-GARY-ALLAN-SMOKE-RINGS-IN-THE-DARK-2019-DELUXE-EDITION-LP-VINYL | Gary Allan | Smoke Rings in the Dark — 2019 Deluxe Edition | LP | Vinyl | 
-MUSIC-GARY-ALLAN-ALRIGHT-GUY-LP-CD | Gary Allan | Alright Guy | LP | CD | 
-MUSIC-GARY-ALLAN-SEE-IF-I-CARE-LP-CD | Gary Allan | See If I Care | LP | CD | 
-MUSIC-GARY-ALLAN-TOUGH-ALL-OVER-LP-CD | Gary Allan | Tough All Over | LP | CD | 
-MUSIC-GARY-ALLAN-LIVING-HARD-LP-CD | Gary Allan | Living Hard | LP | CD | 
-MUSIC-GARY-ALLAN-GET-OFF-ON-THE-PAIN-LP-CD | Gary Allan | Get Off on the Pain | LP | CD | 
-MUSIC-GARY-ALLAN-SET-YOU-FREE-LP-CD | Gary Allan | Set You Free | LP | CD | 
-MUSIC-GARY-ALLAN-RUTHLESS-LP-VINYL | Gary Allan | Ruthless | LP | Vinyl | 
+
 MUSIC-MISFITS-STATIC-AGE-LP-VINYL | Misfits | Static Age | LP | Vinyl | 
 MUSIC-MISFITS-WALK-AMONG-US-LP-VINYL | Misfits | Walk Among Us | LP | Vinyl | 
 MUSIC-MISFITS-EARTH-A-D-WOLFS-BLOOD-LP-VINYL | Misfits | Earth A.D./Wolfs Blood | LP | Vinyl | 
@@ -464,6 +438,7 @@ MUSIC-MISFITS-NIGHT-OF-THE-LIVING-DEAD-EP-VINYL | Misfits | Night of the Living 
 MUSIC-MISFITS-3-HITS-FROM-HELL-EP-VINYL | Misfits | 3 Hits from Hell | EP | Vinyl | 
 MUSIC-MISFITS-COUGH-COOL-ORIGINAL-SINGLE-SINGLE-VINYL | Misfits | Cough/Cool — Original Single | Single | Vinyl | 
 MUSIC-MISFITS-HALLOWEEN-SINGLE-VINYL | Misfits | Halloween | Single | Vinyl | 
+
 MUSIC-MOTORHEAD-MOTORHEAD-LP-VINYL | Motörhead | Motörhead | LP | Vinyl | 
 MUSIC-MOTORHEAD-ON-PAROLE-LP-VINYL | Motörhead | On Parole | LP | Vinyl | 
 MUSIC-MOTORHEAD-OVERKILL-LP-VINYL | Motörhead | Overkill | LP | Vinyl | 
@@ -498,6 +473,7 @@ MUSIC-MOTORHEAD-IRON-FIST-SINGLE-VINYL | Motörhead | Iron Fist | Single | Vinyl
 MUSIC-MOTORHEAD-I-GOT-MINE-SINGLE-VINYL | Motörhead | I Got Mine | Single | Vinyl | 
 MUSIC-MOTORHEAD-KILLED-BY-DEATH-12-INCH-EDITION-CONTAINING-BOTH-UNDER-THE-KNIFE-TRACKS-SINGLE-VINYL | Motörhead | Killed by Death — 12-inch edition containing both Under the Knife tracks | Single | Vinyl | Must be the 12-inch edition containing both Under the Knife tracks.
 MUSIC-MOTORHEAD-CITY-KIDS-SINGLE-VINYL | Motörhead | City Kids | Single | Vinyl | 
+
 MUSIC-OZZY-OSBOURNE-BLIZZARD-OF-OZZ-LP-VINYL | Ozzy Osbourne | Blizzard of Ozz | LP | Vinyl | 
 MUSIC-OZZY-OSBOURNE-DIARY-OF-A-MADMAN-LP-VINYL | Ozzy Osbourne | Diary of a Madman | LP | Vinyl | 
 MUSIC-OZZY-OSBOURNE-BARK-AT-THE-MOON-LP-VINYL | Ozzy Osbourne | Bark at the Moon | LP | Vinyl | 
@@ -513,41 +489,7 @@ MUSIC-OZZY-OSBOURNE-ORDINARY-MAN-LP-VINYL | Ozzy Osbourne | Ordinary Man | LP | 
 MUSIC-OZZY-OSBOURNE-PATIENT-NUMBER-9-LP-VINYL | Ozzy Osbourne | Patient Number 9 | LP | Vinyl | 
 MUSIC-OZZY-OSBOURNE-FLIPPIN-THE-B-SIDE-LP-VINYL | Ozzy Osbourne | Flippin' The B Side | LP | Vinyl | 
 MUSIC-OZZY-OSBOURNE-PRINCE-OF-DARKNESS-REQUIRED-FOR-THE-FINISHED-STUDIO-VERSION-OF-WALK-ON-WATER-LP-CD | Ozzy Osbourne | Prince of Darkness — required for the finished studio version of Walk on Water | LP | CD | Required for the finished studio version of Walk on Water.
-MUSIC-RAMONES-RAMONES-LP-VINYL | Ramones | Ramones | LP | Vinyl | 
-MUSIC-RAMONES-LEAVE-HOME-LP-VINYL | Ramones | Leave Home | LP | Vinyl | 
-MUSIC-RAMONES-ROCKET-TO-RUSSIA-LP-VINYL | Ramones | Rocket to Russia | LP | Vinyl | 
-MUSIC-RAMONES-ROAD-TO-RUIN-LP-VINYL | Ramones | Road to Ruin | LP | Vinyl | 
-MUSIC-RAMONES-END-OF-THE-CENTURY-LP-VINYL | Ramones | End of the Century | LP | Vinyl | 
-MUSIC-RAMONES-PLEASANT-DREAMS-LP-VINYL | Ramones | Pleasant Dreams | LP | Vinyl | 
-MUSIC-RAMONES-SUBTERRANEAN-JUNGLE-LP-VINYL | Ramones | Subterranean Jungle | LP | Vinyl | 
-MUSIC-RAMONES-TOO-TOUGH-TO-DIE-LP-VINYL | Ramones | Too Tough to Die | LP | Vinyl | 
-MUSIC-RAMONES-ANIMAL-BOY-LP-VINYL | Ramones | Animal Boy | LP | Vinyl | 
-MUSIC-RAMONES-HALFWAY-TO-SANITY-LP-VINYL | Ramones | Halfway to Sanity | LP | Vinyl | 
-MUSIC-RAMONES-BRAIN-DRAIN-LP-VINYL | Ramones | Brain Drain | LP | Vinyl | 
-MUSIC-RAMONES-MONDO-BIZARRO-LP-VINYL | Ramones | Mondo Bizarro | LP | Vinyl | 
-MUSIC-RAMONES-ACID-EATERS-JAPANESE-EDITION-PREFERRED-LP-VINYL | Ramones | Acid Eaters — Japanese Edition Preferred | LP | Vinyl | Japanese edition preferred.
-MUSIC-RAMONES-ADIOS-AMIGOS-LP-VINYL | Ramones | ¡Adios Amigos! | LP | Vinyl | 
-MUSIC-RAMONES-ROCK-N-ROLL-HIGH-SCHOOL-SOUNDTRACK-LP-VINYL | Ramones | Rock 'n' Roll High School Soundtrack | LP | Vinyl | 
-MUSIC-RAMONES-GET-CRAZY-SOUNDTRACK-LP-VINYL | Ramones | Get Crazy Soundtrack | LP | Vinyl | 
-MUSIC-RAMONES-STILL-MORE-STUFF-RARITIES-1981-1989-LP-VINYL | Ramones | Still More Stuff: Rarities 1981-1989 | LP | Vinyl | 
-MUSIC-RAMONES-WEIRD-TALES-OF-THE-RAMONES-LP-CD | Ramones | Weird Tales of the Ramones | LP | CD | 
-MUSIC-THE-PRETTY-RECKLESS-LIGHT-ME-UP-LP-VINYL | The Pretty Reckless | Light Me Up | LP | Vinyl | 
-MUSIC-THE-PRETTY-RECKLESS-HIT-ME-LIKE-A-MAN-EP-CD | The Pretty Reckless | Hit Me Like a Man | EP | CD | 
-MUSIC-THE-PRETTY-RECKLESS-GOING-TO-HELL-JAPANESE-DELUXE-EDITION-LP-CD | The Pretty Reckless | Going to Hell (Japanese Deluxe Edition) | LP | CD | 
-MUSIC-THE-PRETTY-RECKLESS-WHO-YOU-SELLING-FOR-LP-VINYL | The Pretty Reckless | Who You Selling For | LP | Vinyl | 
-MUSIC-THE-PRETTY-RECKLESS-DEATH-BY-ROCK-AND-ROLL-LP-VINYL | The Pretty Reckless | Death by Rock and Roll | LP | Vinyl | 
-MUSIC-THE-PRETTY-RECKLESS-OTHER-WORLDS-LP-VINYL | The Pretty Reckless | Other Worlds | LP | Vinyl | 
-MUSIC-THE-PRETTY-RECKLESS-TAYLOR-MOMSEN-S-PRETTY-RECKLESS-CHRISTMAS-LP-VINYL | The Pretty Reckless | Taylor Momsen's Pretty Reckless Christmas | LP | Vinyl | 
-MUSIC-THE-PRETTY-RECKLESS-DEAR-GOD-LP-VINYL | The Pretty Reckless | Dear God | LP | Vinyl | 
-MUSIC-VARIOUS-ARTISTS-CAN-T-GET-ENOUGH-A-TRIBUTE-TO-BAD-COMPANY-LP-VINYL | Various Artists | Can't Get Enough: A Tribute to Bad Company | LP | Vinyl | 
-MUSIC-VARIOUS-ARTISTS-WE-WISH-YOU-A-METAL-X-MAS-AND-A-HEADBANGING-NEW-YEAR-16-TRACK-EXPANDED-EDITION-LP-VINYL | Various Artists | We Wish You a Metal X-Mas and a Headbanging New Year (16-Track Expanded Edition) | LP | Vinyl | 
-MUSIC-VARIOUS-ARTISTS-LIVIN-LOVIN-LOSIN-SONGS-OF-THE-LOUVIN-BROTHERS-LP-CD | Various Artists | Livin' Lovin' Losin': Songs of the Louvin Brothers | LP | CD | 
-MUSIC-VARIOUS-ARTISTS-COMMON-THREAD-THE-SONGS-OF-THE-EAGLES-LP-CD | Various Artists | Common Thread: The Songs of the Eagles | LP | CD | 
-MUSIC-VARIOUS-ARTISTS-HUMANARY-STEW-A-TRIBUTE-TO-ALICE-COOPER-LP-CD | Various Artists | Humanary Stew: A Tribute to Alice Cooper | LP | CD | 
-MUSIC-VARIOUS-ARTISTS-WWE-PRESENTS-TRIPLE-H-THE-EVOLUTION-OF-THE-GAME-LP-VINYL | Various Artists | WWE Presents: Triple H – The Evolution of the Game | LP | Vinyl | 
-MUSIC-COLLABORATIONS-HEADCAT-LEMMY-SLIM-JIM-DANNY-B-LP-CD | Collaborations | HeadCat — Lemmy, Slim Jim & Danny B | LP | CD | 
-MUSIC-COLLABORATIONS-HEADCAT-WALK-THE-WALK-TALK-THE-TALK-LP-VINYL | Collaborations | HeadCat — Walk the Walk... Talk the Talk | LP | Vinyl | 
-MUSIC-COLLABORATIONS-LEMMY-NOTHING-ELSE-MATTERS-SINGLE-VINYL | Collaborations | Lemmy — Nothing Else Matters | Single | Vinyl | 
+
 MUSIC-BAD-COMPANY-BAD-COMPANY-LP-VINYL | Bad Company | Bad Company | LP | Vinyl | 
 MUSIC-BAD-COMPANY-STRAIGHT-SHOOTER-DELUXE-EDITION-LP-CD | Bad Company | Straight Shooter (Deluxe Edition) | LP | CD | 
 MUSIC-BAD-COMPANY-RUN-WITH-THE-PACK-DELUXE-EDITION-LP-CD | Bad Company | Run with the Pack (Deluxe Edition) | LP | CD | 
@@ -561,15 +503,7 @@ MUSIC-BAD-COMPANY-HERE-COMES-TROUBLE-LP-VINYL | Bad Company | Here Comes Trouble
 MUSIC-BAD-COMPANY-COMPANY-OF-STRANGERS-LP-VINYL | Bad Company | Company of Strangers | LP | Vinyl | 
 MUSIC-BAD-COMPANY-STORIES-TOLD-UNTOLD-LP-CD | Bad Company | Stories Told & Untold | LP | CD | 
 MUSIC-BAD-COMPANY-THE-ORIGINAL-BAD-CO-ANTHOLOGY-COMPILATION-CD | Bad Company | The 'Original' Bad Co. Anthology | Compilation | CD | 
-MUSIC-BAD-COMPANY-IN-CONCERT-MERCHANTS-OF-COOL-LIVE-ALBUM-CD | Bad Company | In Concert: Merchants of Cool | Live Album | CD | 
-
-==================================================
-BOOKS
-==================================================
-
-ID | Series | Title | Format | Language | Notes
-BOOK-TOM-CLANCY-S-THE-DIVISION-OPERATION-CROSSROADS-COMPROMISED | Tom Clancy's The Division: Operation Crossroads | Compromised | Physical Book | English | English physical edition only; exclude Kindle, Audible, ebooks, and non-English editions; notify on every new active listing regardless of price; Buy It Now and auctions accepted.
-BOOK-TOM-CLANCY-S-THE-DIVISION-OPERATION-CROSSROADS-HUNTED | Tom Clancy's The Division: Operation Crossroads | Hunted | Physical Book | English | English physical edition only; exclude Kindle, Audible, ebooks, and non-English editions; notify on every new active listing regardless of price; Buy It Now and auctions accepted.
+MUSIC-BAD-COMPANY-IN-CONCERT-MERCHANTS-OF-COOL-LIVE-ALBUM-CD | Bad Company | In Concert: Merchants of Cool | Live Album | 
 
 ==================================================
 TELEVISION
